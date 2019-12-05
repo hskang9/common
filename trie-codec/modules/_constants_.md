@@ -46,7 +46,7 @@
   1 << 15
 ]
 
-*Defined in [constants.ts:5](https://github.com/polkadot-js/common/blob/c988d5011/packages/trie-codec/src/constants.ts#L5)*
+*Defined in [constants.ts:5](https://github.com/polkadot-js/common/blob/408129d5/packages/trie-codec/src/constants.ts#L5)*
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 • **BRANCH_NODE_NO_VALUE**: *254* = 254
 
-*Defined in [constants.ts:29](https://github.com/polkadot-js/common/blob/c988d5011/packages/trie-codec/src/constants.ts#L29)*
+*Defined in [constants.ts:29](https://github.com/polkadot-js/common/blob/408129d5/packages/trie-codec/src/constants.ts#L29)*
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 • **BRANCH_NODE_WITH_VALUE**: *255* = 255
 
-*Defined in [constants.ts:30](https://github.com/polkadot-js/common/blob/c988d5011/packages/trie-codec/src/constants.ts#L30)*
+*Defined in [constants.ts:30](https://github.com/polkadot-js/common/blob/408129d5/packages/trie-codec/src/constants.ts#L30)*
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 • **EMPTY_TRIE**: *0* = 0
 
-*Defined in [constants.ts:24](https://github.com/polkadot-js/common/blob/c988d5011/packages/trie-codec/src/constants.ts#L24)*
+*Defined in [constants.ts:24](https://github.com/polkadot-js/common/blob/408129d5/packages/trie-codec/src/constants.ts#L24)*
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 • **EXTENSION_NODE_BIG**: *253* = 253
 
-*Defined in [constants.ts:28](https://github.com/polkadot-js/common/blob/c988d5011/packages/trie-codec/src/constants.ts#L28)*
+*Defined in [constants.ts:28](https://github.com/polkadot-js/common/blob/408129d5/packages/trie-codec/src/constants.ts#L28)*
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 • **EXTENSION_NODE_OFFSET**: *128* = 128
 
-*Defined in [constants.ts:27](https://github.com/polkadot-js/common/blob/c988d5011/packages/trie-codec/src/constants.ts#L27)*
+*Defined in [constants.ts:27](https://github.com/polkadot-js/common/blob/408129d5/packages/trie-codec/src/constants.ts#L27)*
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 • **EXTENSION_NODE_SMALL_MAX**: *number* =  EXTENSION_NODE_BIG - 1
 
-*Defined in [constants.ts:34](https://github.com/polkadot-js/common/blob/c988d5011/packages/trie-codec/src/constants.ts#L34)*
+*Defined in [constants.ts:34](https://github.com/polkadot-js/common/blob/408129d5/packages/trie-codec/src/constants.ts#L34)*
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 • **EXTENSION_NODE_THRESHOLD**: *number* =  EXTENSION_NODE_BIG - EXTENSION_NODE_OFFSET
 
-*Defined in [constants.ts:32](https://github.com/polkadot-js/common/blob/c988d5011/packages/trie-codec/src/constants.ts#L32)*
+*Defined in [constants.ts:32](https://github.com/polkadot-js/common/blob/408129d5/packages/trie-codec/src/constants.ts#L32)*
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 • **LEAF_NODE_BIG**: *127* = 127
 
-*Defined in [constants.ts:26](https://github.com/polkadot-js/common/blob/c988d5011/packages/trie-codec/src/constants.ts#L26)*
+*Defined in [constants.ts:26](https://github.com/polkadot-js/common/blob/408129d5/packages/trie-codec/src/constants.ts#L26)*
 
 ___
 
@@ -118,7 +118,7 @@ ___
 
 • **LEAF_NODE_OFFSET**: *1* = 1
 
-*Defined in [constants.ts:25](https://github.com/polkadot-js/common/blob/c988d5011/packages/trie-codec/src/constants.ts#L25)*
+*Defined in [constants.ts:25](https://github.com/polkadot-js/common/blob/408129d5/packages/trie-codec/src/constants.ts#L25)*
 
 ___
 
@@ -126,7 +126,7 @@ ___
 
 • **LEAF_NODE_SMALL_MAX**: *number* =  LEAF_NODE_BIG - 1
 
-*Defined in [constants.ts:33](https://github.com/polkadot-js/common/blob/c988d5011/packages/trie-codec/src/constants.ts#L33)*
+*Defined in [constants.ts:33](https://github.com/polkadot-js/common/blob/408129d5/packages/trie-codec/src/constants.ts#L33)*
 
 ___
 
@@ -134,7 +134,7 @@ ___
 
 • **LEAF_NODE_THRESHOLD**: *number* =  LEAF_NODE_BIG - LEAF_NODE_OFFSET
 
-*Defined in [constants.ts:31](https://github.com/polkadot-js/common/blob/c988d5011/packages/trie-codec/src/constants.ts#L31)*
+*Defined in [constants.ts:31](https://github.com/polkadot-js/common/blob/408129d5/packages/trie-codec/src/constants.ts#L31)*
 
 ___
 
@@ -142,7 +142,7 @@ ___
 
 • **NODE_TYPE_BRANCH**: *1* = 1
 
-*Defined in [constants.ts:37](https://github.com/polkadot-js/common/blob/c988d5011/packages/trie-codec/src/constants.ts#L37)*
+*Defined in [constants.ts:37](https://github.com/polkadot-js/common/blob/408129d5/packages/trie-codec/src/constants.ts#L37)*
 
 ___
 
@@ -150,7 +150,7 @@ ___
 
 • **NODE_TYPE_EXT**: *2* = 2
 
-*Defined in [constants.ts:38](https://github.com/polkadot-js/common/blob/c988d5011/packages/trie-codec/src/constants.ts#L38)*
+*Defined in [constants.ts:38](https://github.com/polkadot-js/common/blob/408129d5/packages/trie-codec/src/constants.ts#L38)*
 
 ___
 
@@ -158,7 +158,7 @@ ___
 
 • **NODE_TYPE_LEAF**: *3* = 3
 
-*Defined in [constants.ts:39](https://github.com/polkadot-js/common/blob/c988d5011/packages/trie-codec/src/constants.ts#L39)*
+*Defined in [constants.ts:39](https://github.com/polkadot-js/common/blob/408129d5/packages/trie-codec/src/constants.ts#L39)*
 
 ___
 
@@ -166,4 +166,4 @@ ___
 
 • **NODE_TYPE_NULL**: *0* = 0
 
-*Defined in [constants.ts:36](https://github.com/polkadot-js/common/blob/c988d5011/packages/trie-codec/src/constants.ts#L36)*
+*Defined in [constants.ts:36](https://github.com/polkadot-js/common/blob/408129d5/packages/trie-codec/src/constants.ts#L36)*

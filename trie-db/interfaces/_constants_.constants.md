@@ -21,7 +21,7 @@
 
 • **EMPTY_HASH**: *Uint8Array*
 
-*Defined in [trie-db/src/constants.ts:11](https://github.com/polkadot-js/common/blob/c988d5011/packages/trie-db/src/constants.ts#L11)*
+*Defined in [trie-db/src/constants.ts:11](https://github.com/polkadot-js/common/blob/408129d5/packages/trie-db/src/constants.ts#L11)*
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 • **EMPTY_HASH_STR**: *string*
 
-*Defined in [trie-db/src/constants.ts:12](https://github.com/polkadot-js/common/blob/c988d5011/packages/trie-db/src/constants.ts#L12)*
+*Defined in [trie-db/src/constants.ts:12](https://github.com/polkadot-js/common/blob/408129d5/packages/trie-db/src/constants.ts#L12)*
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 • **EMPTY_NODE**: *Uint8Array*
 
-*Defined in [trie-db/src/constants.ts:10](https://github.com/polkadot-js/common/blob/c988d5011/packages/trie-db/src/constants.ts#L10)*
+*Defined in [trie-db/src/constants.ts:10](https://github.com/polkadot-js/common/blob/408129d5/packages/trie-db/src/constants.ts#L10)*
 
 ___
 
@@ -45,4 +45,4 @@ ___
 
 • **EMPTY_U8A**: *Uint8Array*
 
-*Defined in [trie-db/src/constants.ts:13](https://github.com/polkadot-js/common/blob/c988d5011/packages/trie-db/src/constants.ts#L13)*
+*Defined in [trie-db/src/constants.ts:13](https://github.com/polkadot-js/common/blob/408129d5/packages/trie-db/src/constants.ts#L13)*

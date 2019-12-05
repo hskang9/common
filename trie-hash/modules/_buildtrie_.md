@@ -14,7 +14,7 @@
 
 ▸ **buildTrie**(`input`: [Uint8Array, Uint8Array][], `cursor`: number, `codec`: Codec, `stream`: any): *Uint8Array*
 
-*Defined in [buildTrie.ts:81](https://github.com/polkadot-js/common/blob/c988d5011/packages/trie-hash/src/buildTrie.ts#L81)*
+*Defined in [buildTrie.ts:81](https://github.com/polkadot-js/common/blob/408129d5/packages/trie-hash/src/buildTrie.ts#L81)*
 
 **Parameters:**
 

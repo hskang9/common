@@ -14,7 +14,7 @@
 
 ▸ **safeParseInt**(`input`: Uint8Array): *number*
 
-*Defined in [decoder/safeParseInt.ts:7](https://github.com/polkadot-js/common/blob/c988d5011/packages/util-rlp/src/decoder/safeParseInt.ts#L7)*
+*Defined in [decoder/safeParseInt.ts:7](https://github.com/polkadot-js/common/blob/408129d5/packages/util-rlp/src/decoder/safeParseInt.ts#L7)*
 
 **Parameters:**
 

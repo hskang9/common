@@ -14,7 +14,7 @@
 
 ▸ **trieRootOrdered**(`input`: Uint8Array[], `codec`: Codec): *Uint8Array*
 
-*Defined in [trieRootOrdered.ts:31](https://github.com/polkadot-js/common/blob/c988d5011/packages/trie-hash/src/trieRootOrdered.ts#L31)*
+*Defined in [trieRootOrdered.ts:31](https://github.com/polkadot-js/common/blob/408129d5/packages/trie-hash/src/trieRootOrdered.ts#L31)*
 
 **`name`** trieRootOrdered
 

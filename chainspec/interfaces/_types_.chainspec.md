@@ -26,7 +26,7 @@
 
 • **bootNodes**: *string[]*
 
-*Defined in [types.ts:8](https://github.com/polkadot-js/common/blob/c988d5011/packages/chainspec/src/types.ts#L8)*
+*Defined in [types.ts:8](https://github.com/polkadot-js/common/blob/408129d5/packages/chainspec/src/types.ts#L8)*
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 • **genesis**: *object*
 
-*Defined in [types.ts:10](https://github.com/polkadot-js/common/blob/c988d5011/packages/chainspec/src/types.ts#L10)*
+*Defined in [types.ts:10](https://github.com/polkadot-js/common/blob/408129d5/packages/chainspec/src/types.ts#L10)*
 
 #### Type declaration:
 
@@ -44,7 +44,7 @@ ___
 
 • **genesisRoot**? : *undefined | string*
 
-*Defined in [types.ts:13](https://github.com/polkadot-js/common/blob/c988d5011/packages/chainspec/src/types.ts#L13)*
+*Defined in [types.ts:13](https://github.com/polkadot-js/common/blob/408129d5/packages/chainspec/src/types.ts#L13)*
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 • **id**: *string*
 
-*Defined in [types.ts:9](https://github.com/polkadot-js/common/blob/c988d5011/packages/chainspec/src/types.ts#L9)*
+*Defined in [types.ts:9](https://github.com/polkadot-js/common/blob/408129d5/packages/chainspec/src/types.ts#L9)*
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 • **name**: *string*
 
-*Defined in [types.ts:14](https://github.com/polkadot-js/common/blob/c988d5011/packages/chainspec/src/types.ts#L14)*
+*Defined in [types.ts:14](https://github.com/polkadot-js/common/blob/408129d5/packages/chainspec/src/types.ts#L14)*
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 • **properties**: *null | Record‹string, any›*
 
-*Defined in [types.ts:16](https://github.com/polkadot-js/common/blob/c988d5011/packages/chainspec/src/types.ts#L16)*
+*Defined in [types.ts:16](https://github.com/polkadot-js/common/blob/408129d5/packages/chainspec/src/types.ts#L16)*
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 • **protocolId**: *string | null*
 
-*Defined in [types.ts:17](https://github.com/polkadot-js/common/blob/c988d5011/packages/chainspec/src/types.ts#L17)*
+*Defined in [types.ts:17](https://github.com/polkadot-js/common/blob/408129d5/packages/chainspec/src/types.ts#L17)*
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 • **telemetryEndpoints**? : *[Telemetry](../modules/_types_.md#telemetry)[]*
 
-*Defined in [types.ts:19](https://github.com/polkadot-js/common/blob/c988d5011/packages/chainspec/src/types.ts#L19)*
+*Defined in [types.ts:19](https://github.com/polkadot-js/common/blob/408129d5/packages/chainspec/src/types.ts#L19)*
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 • **telemetryUrl**? : *string | null*
 
-*Defined in [types.ts:18](https://github.com/polkadot-js/common/blob/c988d5011/packages/chainspec/src/types.ts#L18)*
+*Defined in [types.ts:18](https://github.com/polkadot-js/common/blob/408129d5/packages/chainspec/src/types.ts#L18)*

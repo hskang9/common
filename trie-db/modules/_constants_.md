@@ -18,7 +18,7 @@
 
 ▸ **default**(`codec`: Codec): *[Constants](../interfaces/_constants_.constants.md)*
 
-*Defined in [trie-db/src/constants.ts:14](https://github.com/polkadot-js/common/blob/c988d5011/packages/trie-db/src/constants.ts#L14)*
+*Defined in [trie-db/src/constants.ts:14](https://github.com/polkadot-js/common/blob/408129d5/packages/trie-db/src/constants.ts#L14)*
 
 **Parameters:**
 
